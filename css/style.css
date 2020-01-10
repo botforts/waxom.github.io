@@ -129,7 +129,6 @@ body {
   font-family: "raleway-regular";
   font-size: 34px;
   font-weight: 400;
-  /*letter-spacing: -1.36px; */
 }
 #menu,
 label {
@@ -163,7 +162,6 @@ label {
   font-family: "montserrat-light";
   font-size: 14px;
   font-weight: 300;
-  /*letter-spacing: -0.4px; */
 }
 .header-nav-item a:hover {
   color: #c7b299;
@@ -301,9 +299,6 @@ a:focus {
   position: absolute;
   fill: #fff;
 }
-/*.header-content:hover .svg-arrow {
-    fill: #c7b299;
-} */
 .svg-arrow:hover :before {
     fill: #c7b299;
     color: #c7b299;
